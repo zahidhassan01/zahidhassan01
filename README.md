@@ -1,4 +1,8 @@
 Hello, I'm Zahid 👋 <h3 align="center">A passionate developer from Pakistan</h3>
+
+![bBack and Yellow  Personal Trainer Linkedin Banner (2)](https://github.com/user-attachments/assets/67432f91-c1fd-4819-95e1-7c6d459b2132)
+
+
 Welcome to my GitHub profile! I'm a versatile developer with a passion for creating seamless and engaging digital experiences. From mobile applications to web development, and design to productivity, I bring a broad skill set to the table.
 
 ![image](https://github.com/user-attachments/assets/9442b6a2-7bdb-4ad9-ab45-99b487db1318)
