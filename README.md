@@ -9,7 +9,7 @@ Hello, I'm Zahid Hassan, a third-year student pursuing a Bachelor of Science in 
 
 - 🔭 I’m currently working on **Web Projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Computer Science **
 
 - 👯 I’m looking to collaborate on **Advanced Projects**
 
