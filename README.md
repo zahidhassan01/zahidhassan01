@@ -23,6 +23,7 @@ Hello, I'm Zahid Hassan, a third-year student pursuing a Bachelor of Science in 
 
 
  🛠️ Skills
+ 
 Mobile Application Development
 
 Web Development
