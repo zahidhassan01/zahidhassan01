@@ -1,6 +1,8 @@
 Hello, I'm Zahid 👋 <h3 align="center">A passionate developer from Pakistan</h3>
 Welcome to my GitHub profile! I'm a versatile developer with a passion for creating seamless and engaging digital experiences. From mobile applications to web development, and design to productivity, I bring a broad skill set to the table.
 
+![image](https://github.com/user-attachments/assets/9442b6a2-7bdb-4ad9-ab45-99b487db1318)
+
 🚀 About Me
 Hello, I'm Zahid Hassan, a third-year student pursuing a Bachelor of Science in Computer Science at GC University in Pakistan. With a strong background in tech communities such as Microsoft, Google, and GitHub, I possess a deep understanding of industry trends and technologies. Additionally, I have two years of hands-on experience in web development, further solidifying my skills in the field
 
